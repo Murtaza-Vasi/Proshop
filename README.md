@@ -1,6 +1,6 @@
 # ProShop
 
-This is an ecommerce platform for buying and selling products. Here we are providing a very simple user interface for good user experiance.
+This is an eCommerce platform for buying and selling products. Here we are providing a very simple user interface for a good user experience. You can chekout the developed website by going [here](https://proshop-0.herokuapp.com/)
 
 # Features
 
