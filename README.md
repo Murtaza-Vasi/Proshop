@@ -28,5 +28,5 @@ This is an eCommerce platform for buying and selling products. Here we are provi
 
 - Frontend:
 
-  1. Reactjs
+  1. React.js
   1. Redux (for state management)
